@@ -13,12 +13,10 @@ Find out more about me:
   <p align="center">
     <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
     <a href="https://docs.microsoft.com/dotnet/" target="_blank"><img align="left" alt=".NET Core" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></a>
-    <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="40" height="40" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-core-logo.png" /></a>  
-    <a href="https://docs.microsoft.com/aspnet/mvc/" target="_blank"><img align="left" alt="ASP.NET Mvc" width="40" height="40" src="https://fa.m.wikipedia.org/wiki/%D9%85%D8%AF%D9%84-%D9%86%D9%85%D8%A7-%DA%A9%D9%86%D8%AA%D8%B1%D9%84%E2%80%8C%DA%AF%D8%B1#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87%3AModelViewControllerDiagram2.svg"/></a>  
+    <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="40" height="40" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-core-logo.png" /></a>    
     <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" color="red" width="40" height="40" src="https://simpleicons.org/icons/angular.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
-    <a href="https://www.microsoft.com/sql-server/" target="_blank"><img align="left" alt="Microsoft SQL Server" width="40" height="40" src="https://it.m.wikipedia.org/wiki/Microsoft_SQL_Server#/media/File%3ASql_server_logo.png" /></a>
-   
+    
   <br />
     <br />
   <p align="center">
