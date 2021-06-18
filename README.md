@@ -9,7 +9,6 @@ Find out more about me:
   <summary>👨‍💻 Technologies </summary>
   
    
-     
   <p align="center">
     <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
     <a href="https://docs.microsoft.com/dotnet/" target="_blank"><img align="left" alt=".NET Core" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></a>
@@ -20,6 +19,17 @@ Find out more about me:
           <a href="https://www.microsoft.com/sql-server/" target="_blank"><img align="left" alt="Microsoft SQL Server" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" /></a>
   </p>
   <br />
+    <br />
+  <p align="center">
+          <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="100" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" /></a>
+      <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbitmq" width="100" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" /></a>
+          <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic" width="100" height="60" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" /></a>
+          <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="80" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" /></a>
+
+  </p>
+
+     
+    <br />
     <br />
   
   <br />
