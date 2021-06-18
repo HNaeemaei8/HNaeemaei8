@@ -20,6 +20,9 @@ Find out more about me:
   
 
 <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" />
+
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
+
   <br />
     <br />
   <p align="center">
