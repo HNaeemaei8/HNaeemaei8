@@ -9,6 +9,7 @@ Find out more about me:
   <summary>👨‍💻 Technologies </summary>
   
    
+  
   <p align="center">
     <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
     <a href="https://docs.microsoft.com/dotnet/" target="_blank"><img align="left" alt=".NET Core" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></a>
@@ -27,10 +28,6 @@ Find out more about me:
           <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="80" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" /></a>
 
   </p>
-
-     
-    <br />
-    <br />
   
   <br />
   <br />  
@@ -39,7 +36,4 @@ Find out more about me:
   
 <summary>:zap: GitHub Stats</summary>
 
-  <br />  
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=naeemaei&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemaei&hide=TeX&layout=compact)
+  <br />
