@@ -3,7 +3,7 @@ I'm Hossein Naeemaei. I graduated in Software Engineering and currently I am a f
 
 Find out more about me:
 <br /> 
-[![Linkedin Badge](https://img.shields.io/badge/-naeemaei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hossein-naeemaeiaali-0768b7172/)](https://www.linkedin.com/in/hossein-naeemaeiaali-0768b7172/)
+[![Linkedin Badge](https://img.shields.io/badge/-hossein-naeemaeiaali-0768b7172-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hossein-naeemaeiaali-0768b7172/)](https://www.linkedin.com/in/hossein-naeemaeiaali-0768b7172/)
 [![Gmail Badge](https://img.shields.io/badge/-hossein.naeemaei@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hossein.naeemaei@gmail.com)](mailto:hossein.naeemaei@gmail.com)
 
   <summary>👨‍💻 Technologies </summary>
