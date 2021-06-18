@@ -17,7 +17,7 @@ Find out more about me:
     <a href="https://docs.microsoft.com/aspnet/mvc/" target="_blank"><img align="left" alt="ASP.NET mvc" width="40" height="40" src="https://favpng.com/png_view/framework-asp-net-mvc-logo-net-framework-model-view-controller-png/ScSh8Fw6"/></a>  
     <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" color="red" width="40" height="40" src="https://simpleicons.org/icons/angular.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
-   -nE%3D&client=ms-android-samsung-gj-rev1&prmd=ivn&sa=X&ved=2ahUKEwjc04GpkaHxAhXDgM4BHQufCwIQ4lYoDXoECAEQHg&biw=412&bih=734#imgrc=Cmi56OhtsKrqRM 
+   
   <br />
     <br />
   <p align="center">
