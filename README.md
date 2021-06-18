@@ -5,7 +5,7 @@ Find out more about me:
 <br /> 
 [![Linkedin Badge](https://img.shields.io/badge/-naeemaei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naeemaei/)](https://www.linkedin.com/in/naeemaei/)
 [![Gmail Badge](https://img.shields.io/badge/-hossein.naeemaei@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hossein.naeemaei@gmail.com)](mailto:hossein.naeemaei@gmail.com)
-https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFZxca_k7qN-AAAAXoeuUwQJpOcbrGQneIoLcvBzqJvG8vfSux8LpOWS3SEOymWTzej4-B_rfA6PlREIXmYucthigcldhbUMLQFeexHWiDqKSD-E0gYDComHbxyAWutLKfZlds=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhossein-naeemaeiaali-0768b7172%2F%3Ftrk%3Dpublic_profile_browsemap_profile-result-card_result-card_full-click%26originalSubdomain%3Dir
+
   <summary>👨‍💻 Technologies </summary>
   
   <br />  
