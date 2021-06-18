@@ -14,7 +14,7 @@ Find out more about me:
     <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
     <a href="https://docs.microsoft.com/dotnet/" target="_blank"><img align="left" alt=".NET Core" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></a>
     <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="40" height="40" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-core-logo.png" /></a>  
-    <a href="https://docs.microsoft.com/aspnet/mvc/" target="_blank"><img align="left" alt="ASP.NET mvc" width="40" height="40" src=" https://www.google.com/search?q=asp.net+mvc.logo&client=ms-android-samsung-gj-rev1&prmd=ivn&sxsrf=ALeKk00_t2xvVWVh25xkub6WvSDxcnQ6pA:1624018215259&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiY49Cmk6HxAhWMCsAKHSTVBwYQ_AUoAXoECAIQAQ&biw=412&bih=734&dpr=1.75#imgrc=AEs1IQCGqP2cEM"/></a>  
+    <a href="https://docs.microsoft.com/aspnet/mvc/" target="_blank"><img align="left" alt="ASP.NET mvc" width="40" height="40" src="https://www.pngwing.com/en/free-png-dielu"/></a>  
     <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" color="red" width="40" height="40" src="https://simpleicons.org/icons/angular.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
    
