@@ -14,7 +14,6 @@ Find out more about me:
     <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
     <a href="https://docs.microsoft.com/dotnet/" target="_blank"><img align="left" alt=".NET Core" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></a>
     <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="40" height="40" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-core-logo.png" /></a>  
-<a href="https://docs.microsoft.com/aspnet/MVC/" target="_blank"><img align="left" alt="ASP.NET MVC" width="40" height="40" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-MVC-logo.png" /></a>
     <a href="https://golang.org/" target="_blank"><img align="left" alt="Golang" width="65" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png" /></a>
      <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" width="40" height="40" src="https://simpleicons.org/icons/angular.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
