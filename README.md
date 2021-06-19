@@ -22,7 +22,7 @@ Find out more about me:
 <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" />
 
 
-<a href="https://iconscout.com/icons/sql" target="_blank">Sql Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
+<a href="https://iconscout.com/icons/sql" target="_blank"></a> <a href="https://iconscout.com/contributors/icon-mafia" target="_blank"></a>
   <br />
     <br />
   <p align="center">
