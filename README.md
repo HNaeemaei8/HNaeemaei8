@@ -19,7 +19,7 @@ Find out more about me:
   <a href="https://docs.microsoft.com/en-us/aspnet/mvc/" target="_blank"><img align="left" alt="Asp.Net Mvc" width="40" height="40" src=""
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
 
-<img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="40" height="40" align="left" alt="Microsoft Sql Server />
+<img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" width="40" height="40" align="left" alt="Microsoft Sql Server" />
 
 
 <a href="https://iconscout.com/icons/sql" target="_blank" width="40" height="40" align="left" alt="Microsoft SQL Server"    ></a> <a href="https://iconscout.com/contributors/icon-mafia" target="_blank"></a>
