@@ -16,8 +16,10 @@ Find out more about me:
     <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="40" height="40" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-core-logo.png" /></a>    
     <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" width="40" height="40" src="https://simpleicons.org/icons/angular.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
-  <a href="https://docs.microsoft.com/en-us/aspnet/mvc/" target="_blank"><img align="left" alt="Asp.Net Mvc" width="40" height="40" src="http://bayanbox.ir/view/1527584569233194361/aspnetmvclogo.png"
+  <a href="https://docs.microsoft.com/en-us/aspnet/mvc/" target="_blank"><img align="left" alt="Asp.Net Mvc" width="40" height="40" src="http://bayanbox.ir/view/1527584569233194361/aspnetmvclogo.png"></a>
 
+ <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img align="left" alt="Asp.Net Mvc" width="40" height="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/sql-server-logo.png"></a>                                                                              
+                                                                              
 <br/>
   <br />
     <br />
