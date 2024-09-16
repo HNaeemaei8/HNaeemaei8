@@ -16,8 +16,8 @@ Find out more about me:
     <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="40" height="40" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-core-logo.png" /></a>    
     <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" width="40" height="40" src="https://simpleicons.org/icons/angular.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
-  <a href="https://docs.microsoft.com/en-us/aspnet/mvc/" target="_blank"><img align="left" alt="Asp.Net Mvc" width="40" height="40" src="https://blog.cdn.cmarix.com/blog/wp-content/uploads/2015/10/ASP.Net-MVC-Blog.png"></a>
-  <a href="https://docs.microsoft.com/en-us/aspnet/mvc/" target="_blank"><img align="left" alt="Asp.Net Mvc" width="40" height="40" src="https://blitzhandel24.imgbolt.de/media/image/6e/9c/80/kisspng-microsoft-sql-server-database-server-database-admi-server-5ad641f3073f38.png"></a>
+  <a href="https://docs.microsoft.com/en-us/aspnet/mvc/" target="_blank"><img align="left" alt="Asp.Net Mvc" width="60" height="60" src="https://blog.cdn.cmarix.com/blog/wp-content/uploads/2015/10/ASP.Net-MVC-Blog.png"></a>
+  <a href="https://docs.microsoft.com/en-us/aspnet/mvc/" target="_blank"><img align="left" alt="Asp.Net Mvc" width="60" height="60" src="https://blitzhandel24.imgbolt.de/media/image/6e/9c/80/kisspng-microsoft-sql-server-database-server-database-admi-server-5ad641f3073f38.png"></a>
 
                                                                 
 <br/>
