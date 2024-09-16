@@ -13,7 +13,7 @@ Find out more about me:
   <p align="center">
     <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
     <a href="https://docs.microsoft.com/dotnet/" target="_blank"><img align="left" alt=".NET Core" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></a>
-    <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="60" height="60" src="https://www.brunobrito.net.br/content/images/2018/05/que-es-aspnet-core.jpg" /></a>    
+    <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="60" height="60" src="https://codeopinion.com/wp-content/uploads/2018/07/Bitmap-MEDIUM_ASP.NET-Core-Logo_2colors_Square_RGB.png" /></a>    
     <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" width="60" height="60" src="https://static-00.iconduck.com/assets.00/angular-icon-2048x2048-1jh3cvzk.png" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" /></a>
   <a href="https://docs.microsoft.com/en-us/aspnet/mvc/" target="_blank"><img align="left" alt="Asp.Net Mvc" width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQersOwhh_83ap2mpg5BS5_Q4sucGnfsPCDkOPEh3Vl56_3T84ZTWO_VR5J73PGXk8iU&usqp=CAU"></a>
