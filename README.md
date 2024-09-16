@@ -43,8 +43,6 @@ Find out more about me:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HNaeemaei8&count_private=true&show_icons=true&include_all_commits=true)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HNaeemaei8&langs_count=5)]()
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeastishank&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20&exclude_repo=dotfiles" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemaei&hide=TeX&layout=compact)
 
 
 
