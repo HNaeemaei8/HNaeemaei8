@@ -26,7 +26,7 @@ Find out more about me:
   <p align="center">
           <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="60" height="60" src="https://miro.medium.com/v2/resize:fit:400/1*OARpkeBkn_Tw3vk8H769OQ.png" /></a>
       <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbitmq" width="60" height="60" src="https://miro.medium.com/v2/resize:fit:420/1*ExeaiV8QMLXdZZS-rtlzCg.png" /></a>
-          <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic" width="60" height="60" src="https://relipasoft.com/wp-content/uploads/2020/12/Elasticsearch%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC1.relipasoft.com-.png" /></a>
+          <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic" width="60" height="60" src="https://nextbrick.com/wp-content/uploads/2023/07/learn-elasticsearch-sXUr0.jpg.webp" /></a>
           <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" /></a>
 
   </p>
