@@ -28,7 +28,7 @@ Find out more about me:
       <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbitmq" width="60" height="60" src="https://miro.medium.com/v2/resize:fit:420/1*ExeaiV8QMLXdZZS-rtlzCg.png" /></a>
           <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic" width="80" height="80" src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/02/square-logo.jpg?ssl=1" /></a>
           <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="100" height="60" src="https://media.licdn.com/dms/image/D5612AQF2aD6fbIzn7A/article-cover_image-shrink_600_2000/0/1699691664688?e=2147483647&v=beta&t=c-p44W_cW72aCtPdLTll_1B4y4VHiqZoAyJmo3yJZYc" />
-                    <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="80" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsWsq5rum9afqh-Km3ZvnFNcW95KV07uYrg&s" /></a>
+                    <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="100" height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsWsq5rum9afqh-Km3ZvnFNcW95KV07uYrg&s" /></a>
           </a>
 
 
