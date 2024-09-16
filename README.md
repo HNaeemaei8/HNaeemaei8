@@ -27,7 +27,7 @@ Find out more about me:
           <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="60" height="60" src="https://miro.medium.com/v2/resize:fit:400/1*OARpkeBkn_Tw3vk8H769OQ.png" /></a>
       <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbitmq" width="60" height="60" src="https://miro.medium.com/v2/resize:fit:420/1*ExeaiV8QMLXdZZS-rtlzCg.png" /></a>
           <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic" width="70" height="70" src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/02/square-logo.jpg?ssl=1" /></a>
-          <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="60" height="60" src="https://image.pngaaa.com/834/6394834-middle.png" /></a>
+          <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="60" height="60" src="https://sue.nl/wp-content/uploads/sites/8/2022/07/prometheus-logo-920x920-sue-v02.png" /></a>
 
   </p>
   
