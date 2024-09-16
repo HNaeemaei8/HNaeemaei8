@@ -42,4 +42,5 @@ Find out more about me:
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HNaeemaei8&count_private=true&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemaei&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=HNaeemaei8&theme=algolia&show_icons=true)](https://github.com/HNaeemaei8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemaei&hide=TeX&layout=compact)
