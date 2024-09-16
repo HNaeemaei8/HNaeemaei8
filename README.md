@@ -24,10 +24,10 @@ Find out more about me:
   <br />
     <br />
   <p align="center">
-          <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="100" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" /></a>
-      <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbitmq" width="100" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" /></a>
-          <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic" width="100" height="60" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" /></a>
-          <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="80" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" /></a>
+          <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="60" height="60" src="https://miro.medium.com/v2/resize:fit:1200/1*j4AQo2lTZ6cEX63QshWf_Q.png" /></a>
+      <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbitmq" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" /></a>
+          <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" /></a>
+          <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" /></a>
 
   </p>
   
