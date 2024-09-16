@@ -31,7 +31,7 @@ Find out more about me:
           <a href="https://grafana.com/" target="_blank"><img align="left" alt="grafana" width="100" height="60" src="https://www.skedler.com/blog/wp-content/uploads/2021/08/grafana-logo.png" />
                     <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="80" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsWsq5rum9afqh-Km3ZvnFNcW95KV07uYrg&s" />
 
-                    <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="kubernetes" width="80" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAmVPHXMkkbmVZM5OSC8oEz9gUiJEqTfhEA&s" />
+                    <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="kubernetes" width="80" height="50" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" />
 
            
           </a>
