@@ -42,4 +42,5 @@ Find out more about me:
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HNaeemaei8&count_private=true&show_icons=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemaei&hide=TeX&layout=compact)
