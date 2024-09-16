@@ -32,9 +32,9 @@ Find out more about me:
                     <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="70" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsWsq5rum9afqh-Km3ZvnFNcW95KV07uYrg&s" /></a>
                              <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="kubernetes" width="80" height="50" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" />
                                                               <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="kubernetes" width="80" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLpioqB5oHBOSaqjCXGu5unmOL5OmWLrDVQ&s" />
-
                                                               <a href="https://nginx.org/en/" target="_blank"><img align="left" alt="nginx" width="80" height="50" src="https://miro.medium.com/v2/resize:fit:1200/0*mjG1YdoT7xPcnznN.jpg" />
                                                               </a>
+
 
 
 
