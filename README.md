@@ -33,7 +33,6 @@ Find out more about me:
                              <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="kubernetes" width="80" height="50" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" />
                                                               <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="kubernetes" width="80" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLpioqB5oHBOSaqjCXGu5unmOL5OmWLrDVQ&s" />
 
-          </a>
 
 
 
