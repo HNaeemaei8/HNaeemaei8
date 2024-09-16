@@ -24,9 +24,9 @@ Find out more about me:
   <br />
     <br />
   <p align="center">
-          <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="60" height="60" src="https://miro.medium.com/v2/resize:fit:400/1*OARpkeBkn_Tw3vk8H769OQ.png" /></a>
-      <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbitmq" width="60" height="60" src="https://miro.medium.com/v2/resize:fit:420/1*ExeaiV8QMLXdZZS-rtlzCg.png" /></a>
-          <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic" width="60" height="60" src="https://miro.medium.com/v2/resize:fit:2000/0*eoHoamtqYxufC386.png" /></a>
+          <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="80" height="80" src="https://miro.medium.com/v2/resize:fit:400/1*OARpkeBkn_Tw3vk8H769OQ.png" /></a>
+      <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbitmq" width="80" height="80" src="https://miro.medium.com/v2/resize:fit:420/1*ExeaiV8QMLXdZZS-rtlzCg.png" /></a>
+          <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic" width="80" height="80" src="https://miro.medium.com/v2/resize:fit:2000/0*eoHoamtqYxufC386.png" /></a>
           <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" /></a>
 
   </p>
