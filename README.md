@@ -11,11 +11,11 @@ Find out more about me:
    
   
   <p align="center">
-    <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
-    <a href="https://docs.microsoft.com/dotnet/" target="_blank"><img align="left" alt=".NET Core" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></a>
-    <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="40" height="40" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-core-logo.png" /></a>    
-    <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" width="40" height="40" src="https://simpleicons.org/icons/angular.svg" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
+    <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
+    <a href="https://docs.microsoft.com/dotnet/" target="_blank"><img align="left" alt=".NET Core" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></a>
+    <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="60" height="60" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-core-logo.png" /></a>    
+    <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" width="60" height="60" src="https://simpleicons.org/icons/angular.svg" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
   <a href="https://docs.microsoft.com/en-us/aspnet/mvc/" target="_blank"><img align="left" alt="Asp.Net Mvc" width="60" height="60" src="https://blog.cdn.cmarix.com/blog/wp-content/uploads/2015/10/ASP.Net-MVC-Blog.png"></a>
   <a href="https://docs.microsoft.com/en-us/aspnet/mvc/" target="_blank"><img align="left" alt="Asp.Net Mvc" width="60" height="60" src="https://blitzhandel24.imgbolt.de/media/image/6e/9c/80/kisspng-microsoft-sql-server-database-server-database-admi-server-5ad641f3073f38.png"></a>
 
