@@ -1,7 +1,13 @@
 ![image](https://github.com/user-attachments/assets/d0811ff4-bdde-4922-8fdb-84acd446496c)I'm Hossein Naeemaei. I graduated in Software Engineering and currently I am a full stack software engineer. I specialize in C# and have professional experience working with ASP.Net Core and Angular in large scale applications. 
  
 
-  
+  Find out more about me:
+<br /> 
+[![Linkedin Badge](https://img.shields.io/badge/-Naeemaei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hossein-naeemaei-0768b7172/)](https://www.linkedin.com/in/hossein-naeemaei-0768b7172/)
+[![Gmail Badge](https://img.shields.io/badge/-hossein.naeemaei@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hossein.naeemaei@gmail.com)](mailto:hossein.naeemaei@gmail.com)
+
+  <summary>👨‍💻 Technologies </summary>
+
    
   
   <p align="center">
