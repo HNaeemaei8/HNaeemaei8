@@ -31,7 +31,7 @@ Find out more about me:
           <a href="https://grafana.com/" target="_blank"><img align="left" alt="grafana" width="70" height="70" src="https://www.skedler.com/blog/wp-content/uploads/2021/08/grafana-logo.png" /></a>
                     <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="70" height="70" src="https://blog.dreamfactory.com/hubfs/Imported_Blog_Media/redis.png" /></a>
                              <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="kubernetes" width="70" height="70" src="https://www.serviops.ca/wp-content/uploads/2015/07/kubernetes-logo.png" /> </a>
-                                                              <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" width="50" height="70" src="https://codefactorygroup.com/case-studies/wp-content/uploads/2021/05/apache-kafka-1110x550.png" /> </a>
+                                                              <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" width="50" height="70" src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/TALL%20-%20Black%20on%20Transparent.png" /> </a>
                                                               <a href="https://nginx.org/en/" target="_blank"><img align="left" alt="nginx" width="70" height="70" src="https://sdickinson.com/content/images/2021/03/NGINX-vertical-black-type.png" /> </a>
 
 
