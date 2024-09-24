@@ -1,4 +1,4 @@
-![image]I'm Hossein Naeemaei. I graduated in Software Engineering and currently I am a full stack software engineer. I specialize in C# and have professional experience working with ASP.Net Core and Angular in large scale applications. 
+I'm Hossein Naeemaei. I graduated in Software Engineering and currently I am a full stack software engineer. I specialize in C# and have professional experience working with ASP.Net Core and Angular in large scale applications. 
  
 
   Find out more about me:
