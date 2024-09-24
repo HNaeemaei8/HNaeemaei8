@@ -30,7 +30,7 @@ Find out more about me:
           <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="100" height="60" src="https://media.licdn.com/dms/image/D5612AQF2aD6fbIzn7A/article-cover_image-shrink_600_2000/0/1699691664688?e=2147483647&v=beta&t=c-p44W_cW72aCtPdLTll_1B4y4VHiqZoAyJmo3yJZYc" /></a>
           <a href="https://grafana.com/" target="_blank"><img align="left" alt="grafana" width="70" height="70" src="https://www.skedler.com/blog/wp-content/uploads/2021/08/grafana-logo.png" /></a>
                     <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="60" height="60" src="https://blog.dreamfactory.com/hubfs/Imported_Blog_Media/redis.png" /></a>
-                             <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="kubernetes" width="100" height="80" src="https://logos-world.net/wp-content/uploads/2023/06/Kubernetes-Logo.png" /> </a>
+                             <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="kubernetes" width="110" height="80" src="https://logos-world.net/wp-content/uploads/2023/06/Kubernetes-Logo.png" /> </a>
                                                               <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" width="50" height="70" src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/TALL%20-%20Black%20on%20Transparent.png" /> </a>
                                                               <a href="https://nginx.org/en/" target="_blank"><img align="left" alt="nginx" width="70" height="70" src="https://sdickinson.com/content/images/2021/03/NGINX-vertical-black-type.png" /> </a>
 
