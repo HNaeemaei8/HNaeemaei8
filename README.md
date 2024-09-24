@@ -26,7 +26,7 @@ I'm Hossein Naeemaei. I graduated in Software Engineering and currently I am a f
   <p align="center">
           <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="60" height="60" src="https://miro.medium.com/v2/resize:fit:400/1*OARpkeBkn_Tw3vk8H769OQ.png" /></a>
       <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbitmq" width="80" height="60" src="https://miro.medium.com/v2/resize:fit:420/1*ExeaiV8QMLXdZZS-rtlzCg.png" /></a>
-          <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic" width="80" height="80" src="https://mauricius.dev/images/elasticsearch.png" /></a>
+          <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic" width="80" height="80" src="https://miro.medium.com/v2/resize:fit:2000/0*eoHoamtqYxufC386.png" /></a>
           <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="110" height="70" src="https://media.licdn.com/dms/image/D5612AQF2aD6fbIzn7A/article-cover_image-shrink_600_2000/0/1699691664688?e=2147483647&v=beta&t=c-p44W_cW72aCtPdLTll_1B4y4VHiqZoAyJmo3yJZYc" /></a>
           <a href="https://grafana.com/" target="_blank"><img align="left" alt="grafana" width="90" height="70" src="https://www.skedler.com/blog/wp-content/uploads/2021/08/grafana-logo.png" /></a>
                     <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="60" height="60" src="https://blog.dreamfactory.com/hubfs/Imported_Blog_Media/redis.png" /></a>
