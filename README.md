@@ -30,10 +30,9 @@ Find out more about me:
           <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="100" height="60" src="https://media.licdn.com/dms/image/D5612AQF2aD6fbIzn7A/article-cover_image-shrink_600_2000/0/1699691664688?e=2147483647&v=beta&t=c-p44W_cW72aCtPdLTll_1B4y4VHiqZoAyJmo3yJZYc" /></a>
           <a href="https://grafana.com/" target="_blank"><img align="left" alt="grafana" width="100" height="60" src="https://www.skedler.com/blog/wp-content/uploads/2021/08/grafana-logo.png" /></a>
                     <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="70" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSla21_bYg7V2-Aa0QtQNdDqCsKR6gjsEb7Yg&s" /></a>
-                             <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="kubernetes" width="60" height="60" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" />
-                                                              <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="kubernetes" width="60" height="60" src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjzozkrn1cq8nvi0yfs03.jpeg" />
-                                                              <a href="https://nginx.org/en/" target="_blank"><img align="left" alt="nginx" width="60" height="60" src="https://lh3.googleusercontent.com/proxy/VnkInhB4b5jKPhyE5hpkDktKWVinkhG3PVn6j2WXLO6wjYXwK4zdbOwcFn5HxzNTsef7WsTSJMa7j6nVAKT1ElNdGgdUrs-uRrb-MMPFGxUUwYs6NdmUci3FLVir-jBsqQpKQ_Ey8h_i6Vo" />
-                                                              </a>
+                             <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="kubernetes" width="60" height="60" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" /> </a>
+                                                              <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="kubernetes" width="60" height="60" src="" /> </a>
+                                                              <a href="https://nginx.org/en/" target="_blank"><img align="left" alt="nginx" width="60" height="60" src="https://smallit.co.jp/wp-content/uploads/2022/04/3394e209726d25f7b2d540ba176c4e67.png" /> </a>
 
 
 
