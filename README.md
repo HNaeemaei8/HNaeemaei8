@@ -31,7 +31,7 @@ Find out more about me:
           <a href="https://grafana.com/" target="_blank"><img align="left" alt="grafana" width="100" height="60" src="https://www.skedler.com/blog/wp-content/uploads/2021/08/grafana-logo.png" /></a>
                     <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="70" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSla21_bYg7V2-Aa0QtQNdDqCsKR6gjsEb7Yg&s" /></a>
                              <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="kubernetes" width="60" height="60" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" /> </a>
-                                                              <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="kubernetes" width="80" height="80" src="https://senapsa.com/wp-content/uploads/2022/10/image-72-2-1024x626.png" /> </a>
+                                                              <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="kubernetes" width="80" height="80" src="https://data.it-novum.com/wp-content/uploads/2021/02/apache_kafka_logo-1200x547.png" /> </a>
                                                               <a href="https://nginx.org/en/" target="_blank"><img align="left" alt="nginx" width="80" height="80" src="https://sdickinson.com/content/images/2021/03/NGINX-vertical-black-type.png" /> </a>
 
 
